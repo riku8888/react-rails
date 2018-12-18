@@ -1,8 +1,8 @@
 import React from 'react'
 import { Route, Switch } from 'react-router-dom'
-import Home from '..conponents/home'
-import About from '..conponents/about'
-import Contact from '..conponents/contact'
+import Home from '..conponents/Home'
+import About from '..conponents/About'
+import Contact from '..conponents/Contact'
 
 class App extends React.Component{
   render(){
